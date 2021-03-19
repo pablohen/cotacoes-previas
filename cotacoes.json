@@ -1,0 +1,674 @@
+{
+  "cotacoes": [
+    {
+      "numeroAno": "915/2020",
+      "objetoRequisicao": "Aquisição de Hipoclorito de Sódio 12%<br><br>Abertura de Ata de Registro de Preço",
+      "hash": 9315655,
+      "oficial": false,
+      "urlCotacao": "https://serv42.limeira.sp.gov.br/requisicaoCompras/relatorioCotacaoPrevia/relatorioCotacaoPrevia.php?hash_cotacao=9315655"
+    },
+
+    {
+      "numeroAno": "1604/2020",
+      "objetoRequisicao": "Aquisição de material de limpeza e descartáveis , através de Ata de Registro de Preços, previsão de consumo: 12 meses.",
+      "hash": 9318966,
+      "oficial": true,
+      "urlCotacao": "https://serv42.limeira.sp.gov.br/requisicaoCompras/relatorioCotacaoOficial/relatorioCotacaoOficial.php?hash_cotacao=9318966"
+    },
+
+    {
+      "numeroAno": "1959/2020",
+      "objetoRequisicao": "Aquisição de Kit Hip Hop [Pick-up (mixer + CDJ0, microfone sem fio, conjunto de caixas ativas e passivas de 150 watts, fone de ouvido) em atendimento a Emenda Parlamentar / Termo de Compromisso Nº 201701212.",
+      "hash": 9325803,
+      "oficial": true,
+
+      "urlCotacao": "https://serv42.limeira.sp.gov.br/requisicaoCompras/relatorioCotacaoOficial/relatorioCotacaoOficial.php?hash_cotacao=9325803",
+
+      "anexos": [
+        {
+          "nomeArquivo": "ESPECIFICACÕESTECNICAS-KITHipHop.pdf",
+          "urlAnexo": "https://serv42.limeira.sp.gov.br/requisicaoCompras/download_anexo_hash/download_anexo_hash.php?hash_cotacao=9325803&var_filename=ESPECIFICACÕESTECNICAS-KITHipHop.pdf"
+        }
+      ]
+    },
+
+    {
+      "numeroAno": "1960/2020",
+      "objetoRequisicao": "Aquisição de Kit Rádio Escolar (Micro system com toca CD, Mesa de som, Microfone de corpo metálico, Microfone sem fio, gravador digital com porta USB, Fone de ouvido, Conjunto de Caixas Ativas e Passivas 150 Watts) para as EMEIEF's Maria Apparecida de Luca Moore e Profª Aracy Nogueira Guimarães. Emenda Parlamentar / Termo de Compromisso 201701212",
+      "hash": 9325804,
+      "oficial": true,
+      "urlCotacao": "https://serv42.limeira.sp.gov.br/requisicaoCompras/relatorioCotacaoOficial/relatorioCotacaoOficial.php?hash_cotacao=9325804",
+
+      "anexos": [
+        {
+          "nomeArquivo": "ESPECIFICACÕESTECNICAS-KITRADIOESCOLAR.pdf",
+          "urlAnexo": "https://serv42.limeira.sp.gov.br/requisicaoCompras/download_anexo_hash/download_anexo_hash.php?hash_cotacao=9325804&var_filename=ESPECIFICACÕESTECNICAS-KITRADIOESCOLAR.pdf"
+        }
+      ]
+    },
+
+    {
+      "numeroAno": "1961/2020",
+      "objetoRequisicao": "Aquisição de Kit Vídeo [Ilha de edição não linear (com software da área), Câmera Filmadora, Tripé com cabeça, Estabilizador, Conjuntos de Caixas Ativas e Passivas 150 Watts] para as EMEIEF's Maria Apparecida de Luca Moore e Prfª Aracy Nogueira Guimarães, conforme Emenda Parlamentar / Termo de Compromisso Nº 201701212.",
+      "hash": 9325805,
+      "oficial": true,
+      "urlCotacao": "https://serv42.limeira.sp.gov.br/requisicaoCompras/relatorioCotacaoOficial/relatorioCotacaoOficial.php?hash_cotacao=9325805",
+
+      "anexos": [
+        {
+          "nomeArquivo": "ESPECIFICACÕESTECNICAS-KITVIDEO.pdf",
+          "urlAnexo": "https://serv42.limeira.sp.gov.br/requisicaoCompras/download_anexo_hash/download_anexo_hash.php?hash_cotacao=9325805&var_filename=ESPECIFICACÕESTECNICAS-KITVIDEO.pdf"
+        }
+      ]
+    },
+
+    {
+      "numeroAno": "2254/2020",
+      "objetoRequisicao": "Aquisição de medicamentos para o SAMU e Pronto Atendimentos, fracassados no Pregão Eletrônico nº 147/2020, originado pela Requisição de Compras nº 1042/2020. Previsão de consumo: 12 meses. (Abertura de Ata de Registro de Preços).",
+      "hash": 9326566,
+      "oficial": true,
+      "urlCotacao": "https://serv42.limeira.sp.gov.br/requisicaoCompras/relatorioCotacaoOficial/relatorioCotacaoOficial.php?hash_cotacao=9326566",
+
+      "anexos": [
+        {
+          "nomeArquivo": "MedicamentosPadronizados-FRACASSADOSNOPREGAO147_2020.xlsx",
+          "urlAnexo": "https://serv42.limeira.sp.gov.br/requisicaoCompras/download_anexo_hash/download_anexo_hash.php?hash_cotacao=9326566&var_filename=MedicamentosPadronizados-FRACASSADOSNOPREGAO147_2020.xlsx"
+        }
+      ]
+    },
+
+    {
+      "numeroAno": "2285/2020",
+      "objetoRequisicao": "Aquisição de suplemento(s) alimentar(es) para continuidade do atendimento ao(s) Mandado(s) Judicial(ais) e respectivo(s) paciente(s): 1002744-63.2020.8.26.0320 - Israel Lucca Corera Galdino.",
+      "hash": 9326359,
+      "oficial": true,
+      "urlCotacao": "https://serv42.limeira.sp.gov.br/requisicaoCompras/relatorioCotacaoOficial/relatorioCotacaoOficial.php?hash_cotacao=9326359"
+    },
+
+    {
+      "numeroAno": "304/2021",
+      "objetoRequisicao": "Aquisição de Bombona Plástica",
+      "hash": 9323060,
+      "oficial": true,
+      "urlCotacao": "https://serv42.limeira.sp.gov.br/requisicaoCompras/relatorioCotacaoOficial/relatorioCotacaoOficial.php?hash_cotacao=9323060"
+    },
+
+    {
+      "numeroAno": "337/2021",
+      "objetoRequisicao": "Manutenção de grelhas de captação de águas pluviais na EMEIEF Maria Ap. de Luca Moore. ",
+      "hash": 9323463,
+      "oficial": true,
+      "urlCotacao": "https://serv42.limeira.sp.gov.br/requisicaoCompras/relatorioCotacaoOficial/relatorioCotacaoOficial.php?hash_cotacao=9323463"
+    },
+
+    {
+      "numeroAno": "351/2021",
+      "objetoRequisicao": "Aquisição de protetor solar, repelentes e capas de chuvas para os servidores da Secretaria de Meio Ambiente e Agricultura.",
+      "hash": 9323483,
+      "oficial": true,
+      "urlCotacao": "https://serv42.limeira.sp.gov.br/requisicaoCompras/relatorioCotacaoOficial/relatorioCotacaoOficial.php?hash_cotacao=9323483"
+    },
+
+    {
+      "numeroAno": "360/2021",
+      "objetoRequisicao": "Contratação de empresa especializada para troca de Reservatório Metálico Cilíndrico para Unidade Escolar CEIEF Professora Jamile Caram de Souza Dias.",
+      "hash": 9323498,
+      "oficial": true,
+      "urlCotacao": "https://serv42.limeira.sp.gov.br/requisicaoCompras/relatorioCotacaoOficial/relatorioCotacaoOficial.php?hash_cotacao=9323498"
+    },
+
+    {
+      "numeroAno": "362/2021",
+      "objetoRequisicao": "SERVIÇO DE FORNECIMENTO DE REFEIÇÕES: Contratação de empresa para o fornecimento de refeições/almoço ou janta, a ser servido no sistema Self-Service conforme descrito no Termo de Referência<br>",
+      "hash": 9323500,
+      "oficial": true,
+      "urlCotacao": "https://serv42.limeira.sp.gov.br/requisicaoCompras/relatorioCotacaoOficial/relatorioCotacaoOficial.php?hash_cotacao=9323500"
+    },
+
+    {
+      "numeroAno": "365/2021",
+      "objetoRequisicao": "Recuperação do Muro de Divisa do CI Carolina GUilhermina Schnoor Bohianza.",
+      "hash": 9323509,
+      "oficial": true,
+      "urlCotacao": "https://serv42.limeira.sp.gov.br/requisicaoCompras/relatorioCotacaoOficial/relatorioCotacaoOficial.php?hash_cotacao=9323509"
+    },
+
+    {
+      "numeroAno": "380/2021",
+      "objetoRequisicao": "Contração de instituição para atendimento de pacientes maiores de 18 anos com grau de dependência III, com ou sem comprometimento cognitivo, de ambos os sexos, em carácter de longa permanência em atendimento a mandados judiciais ativos e à demanda da Secretaria de Saúde de Limeira. (Abertura de Ata de Registro de Preços)",
+      "hash": 9323274,
+      "oficial": true,
+      "urlCotacao": "https://serv42.limeira.sp.gov.br/requisicaoCompras/relatorioCotacaoOficial/relatorioCotacaoOficial.php?hash_cotacao=9323274"
+    },
+
+    {
+      "numeroAno": "381/2021",
+      "objetoRequisicao": "Aquisição de ração úmida para caninos filhotes, utilizada para auxiliar o fornecimento de medicação a animais debilitados, alojados no Canil Municipal, bem como para suplementar a alimentação desses animais quando não conseguem comer ração seca e para introduzir a alimentação de filhotes recém desmamados.",
+      "hash": 9323275,
+      "oficial": true,
+      "urlCotacao": "https://serv42.limeira.sp.gov.br/requisicaoCompras/relatorioCotacaoOficial/relatorioCotacaoOficial.php?hash_cotacao=9323275"
+    },
+
+    {
+      "numeroAno": "392/2021",
+      "objetoRequisicao": "Aquisição de cosmético para continuidade do tratamento do(s) paciente(s), atendendo ao(s) respectivo(s) Mandado Judicial:<br>ARTHUR HENRIQUE DOS SANTOS MOREIRA - 1007248-83.2018.8.26.0320<br>CLEMENCIA BARBOSA - 0007881-48.2017.8.26.0320<br>MARIA AMELIA SIMOES MEDEIROS - 0023783-85.2010.8.26.0320<br>GRACIANA JULIANA DE MENEZES - 1013932-92.2016.8.26.0320<br>GUSTAVO ALVES DE SOUZA - 3009864-70.2013.8.26.0320<br>MARCIA MOREIRA DE SOUZA BRESSAN - 1002619-71.2015.8.26.0320<br>Caráter emergencial.",
+      "hash": 9323292,
+      "oficial": true,
+      "urlCotacao": "https://serv42.limeira.sp.gov.br/requisicaoCompras/relatorioCotacaoOficial/relatorioCotacaoOficial.php?hash_cotacao=9323292"
+    },
+
+    {
+      "numeroAno": "393/2021",
+      "objetoRequisicao": "Aquisição de cosmético para continuidade do tratamento do(s) paciente(s), atendendo ao(s) respectivo(s) Mandado Judicial:<br>Tatiane Paula Abrahão - 1003367-64.2019.8.26.0320<br>Caráter emergencial.",
+      "hash": 9323293,
+      "oficial": true,
+      "urlCotacao": "https://serv42.limeira.sp.gov.br/requisicaoCompras/relatorioCotacaoOficial/relatorioCotacaoOficial.php?hash_cotacao=9323293"
+    },
+
+    {
+      "numeroAno": "404/2021",
+      "objetoRequisicao": "Aquisição de medicamento(s) para tratamento inicial do(s) paciente(s), atendendo ao(s) respectivo(s) Mandado(s)<br>Judicial(ais):<br>0000585-33.2021.8.26.0320 paciente: MARIA ELISA CHIUSI MARTINS<br>1000937-71.2021.8.26.0320 paciente: VILMA TERESA PIRONE DA SILVA<br>Caráter emergencial.",
+      "hash": 9323316,
+      "oficial": true,
+      "urlCotacao": "https://serv42.limeira.sp.gov.br/requisicaoCompras/relatorioCotacaoOficial/relatorioCotacaoOficial.php?hash_cotacao=9323316"
+    },
+
+    {
+      "numeroAno": "407/2021",
+      "objetoRequisicao": "Contratação de serviços eletrônicos de publicidade da OAB, Tribunais de Justiça, Ministério Público, Varas Municipais, Estaduais, Federais e demais órgãos oficiais de processos judiciais para a Prefeitura Municipal de Limeira e Serviço Autônomo de Água e Esgoto - SAAE (extinto).",
+      "hash": 9323319,
+      "oficial": false,
+      "urlCotacao": "https://serv42.limeira.sp.gov.br/requisicaoCompras/relatorioCotacaoPrevia/relatorioCotacaoPrevia.php?hash_cotacao=9323319"
+    },
+
+    {
+      "numeroAno": "415/2021",
+      "objetoRequisicao": "Aquisição de medicamentos para atendimento a Mandados Judiciais ativos e com previsão para inclusão de novos<br>atendimentos, levantados pela progressão da demanda, para um período de 12 meses. (Abertura de Ata de Registro de Preços).",
+      "hash": 9323333,
+      "oficial": true,
+      "urlCotacao": "https://serv42.limeira.sp.gov.br/requisicaoCompras/relatorioCotacaoOficial/relatorioCotacaoOficial.php?hash_cotacao=9323333",
+
+      "anexos": [
+        {
+          "nomeArquivo": "PlanilhaMedicamentosMJ2021-OFICIALPARTEI..xls",
+          "urlAnexo": "https://serv42.limeira.sp.gov.br/requisicaoCompras/download_anexo_hash/download_anexo_hash.php?hash_cotacao=9323333&var_filename=PlanilhaMedicamentosMJ2021-OFICIALPARTEI..xls"
+        }
+      ]
+    },
+
+    {
+      "numeroAno": "430/2021",
+      "objetoRequisicao": "Abertura de Licitação - Ata de Registro de Preços. <br>EVENTUAL AQUISIÇÃO DE AREIA BRANCA FINA LAVADA PARA O PLAYGROUND DAS UNIDADES ESCOLARES DA REDE PÚBLICA MUNICIPAL DE EDUCAÇÃO.",
+      "hash": 9323354,
+      "oficial": false,
+      "urlCotacao": "https://serv42.limeira.sp.gov.br/requisicaoCompras/relatorioCotacaoPrevia/relatorioCotacaoPrevia.php?hash_cotacao=9323354",
+
+      "anexos": [
+        {
+          "nomeArquivo": "TermodeReferencia.docx",
+          "urlAnexo": "https://serv42.limeira.sp.gov.br/requisicaoCompras/download_anexo_hash/download_anexo_hash.php?hash_cotacao=9323354&var_filename=TermodeReferencia.docx"
+        }
+      ]
+    },
+
+    {
+      "numeroAno": "432/2021",
+      "objetoRequisicao": "Contratação de empresa especializada com fornecimento de peças e mão de obra, para a instalação do sistema elétrico da EMEIEF Maria App.de Luca Moore II.",
+      "hash": 9323356,
+      "oficial": true,
+      "urlCotacao": "https://serv42.limeira.sp.gov.br/requisicaoCompras/relatorioCotacaoOficial/relatorioCotacaoOficial.php?hash_cotacao=9323356",
+
+      "anexos": [
+        {
+          "nomeArquivo": "TermoDescritivoReferenciaProdutoeServico.docx",
+          "urlAnexo": "https://serv42.limeira.sp.gov.br/requisicaoCompras/download_anexo_hash/download_anexo_hash.php?hash_cotacao=9323356&var_filename=TermoDescritivoReferenciaProdutoeServico.docx"
+        }
+      ]
+    },
+
+    {
+      "numeroAno": "450/2021",
+      "objetoRequisicao": "Abertura de Licitação - Sistema de Registro de Preço, para aquisição de Material Escolar.",
+      "hash": 9323738,
+      "oficial": true,
+      "urlCotacao": "https://serv42.limeira.sp.gov.br/requisicaoCompras/relatorioCotacaoOficial/relatorioCotacaoOficial.php?hash_cotacao=9323738",
+
+      "anexos": [
+        {
+          "nomeArquivo": "TermodeReferencia.doc",
+          "urlAnexo": "https://serv42.limeira.sp.gov.br/requisicaoCompras/download_anexo_hash/download_anexo_hash.php?hash_cotacao=9323738&var_filename=TermodeReferencia.doc"
+        }
+      ]
+    },
+
+    {
+      "numeroAno": "462/2021",
+      "objetoRequisicao": "Aquisição de bebedouro industrial para uso interno e para os agentes em trabalho em campo da Assessoria Departamental de Controle de Zoonoses.",
+      "hash": 9323756,
+      "oficial": true,
+      "urlCotacao": "https://serv42.limeira.sp.gov.br/requisicaoCompras/relatorioCotacaoOficial/relatorioCotacaoOficial.php?hash_cotacao=9323756"
+    },
+
+    {
+      "numeroAno": "466/2021",
+      "objetoRequisicao": "Ventilador Oscilante de Parede, para as salas de aula do Centro Infantil Marcia Heleha Baldove Bettoni (CI Morada das Acácias), sito a rua Geraldo Cabrini, 40 - Residencial Morada das Acácias, inaugurado no ano de 2021.",
+      "hash": 9323766,
+      "oficial": false,
+      "urlCotacao": "https://serv42.limeira.sp.gov.br/requisicaoCompras/relatorioCotacaoPrevia/relatorioCotacaoPrevia.php?hash_cotacao=9323766",
+
+      "anexos": [
+        {
+          "nomeArquivo": "TERMODEREFERENCIA-ventilador.docx",
+          "urlAnexo": "https://serv42.limeira.sp.gov.br/requisicaoCompras/download_anexo_hash/download_anexo_hash.php?hash_cotacao=9323766&var_filename=TERMODEREFERENCIA-ventilador.docx"
+        }
+      ]
+    },
+
+    {
+      "numeroAno": "475/2021",
+      "objetoRequisicao": "Aquisição de Cortinas com argolas, tecido Gorgurinho (azul marinho) e acessórios brancos, Instalado.Para atender<br>ao Programa E.I. Manutenção (Resolução nº 15 de 16/05/2013) para a Unidade Escolar CI Jonas Pereira Britto",
+      "hash": 9323525,
+      "oficial": false,
+      "urlCotacao": "https://serv42.limeira.sp.gov.br/requisicaoCompras/relatorioCotacaoPrevia/relatorioCotacaoPrevia.php?hash_cotacao=9323525"
+    },
+
+    {
+      "numeroAno": "481/2021",
+      "objetoRequisicao": "Abertura de Licitação de Registro de Preço - Babador/ Toalhas/ Lençol/ Cobertor/ Fraldas.",
+      "hash": 9323531,
+      "oficial": true,
+      "urlCotacao": "https://serv42.limeira.sp.gov.br/requisicaoCompras/relatorioCotacaoOficial/relatorioCotacaoOficial.php?hash_cotacao=9323531",
+
+      "anexos": [
+        {
+          "nomeArquivo": "TermodeEspecificacao-BabadorToalhaLencolFralda.docx",
+          "urlAnexo": "https://serv42.limeira.sp.gov.br/requisicaoCompras/download_anexo_hash/download_anexo_hash.php?hash_cotacao=9323531&var_filename=TermodeEspecificacao-BabadorToalhaLencolFralda.docx"
+        }
+      ]
+    },
+
+    {
+      "numeroAno": "489/2021",
+      "objetoRequisicao": "Aquisição de Produtos Nutricionais para atendimento de pacientes do Programa Municipal de Suporte Nutricional. Previsão de consumo: 12 meses. (Abertura de Ata de Registro de Preço).",
+      "hash": 9323545,
+      "oficial": true,
+      "urlCotacao": "https://serv42.limeira.sp.gov.br/requisicaoCompras/relatorioCotacaoOficial/relatorioCotacaoOficial.php?hash_cotacao=9323545"
+    },
+
+    {
+      "numeroAno": "499/2021",
+      "objetoRequisicao": "Aquisição e Reforma de Persianas com instalação inclusa.",
+      "hash": 9323561,
+      "oficial": true,
+      "urlCotacao": "https://serv42.limeira.sp.gov.br/requisicaoCompras/relatorioCotacaoOficial/relatorioCotacaoOficial.php?hash_cotacao=9323561"
+    },
+
+    {
+      "numeroAno": "510/2021",
+      "objetoRequisicao": "Aquisição Mobiliário para sala do Secretário",
+      "hash": 9323578,
+      "oficial": true,
+      "urlCotacao": "https://serv42.limeira.sp.gov.br/requisicaoCompras/relatorioCotacaoOficial/relatorioCotacaoOficial.php?hash_cotacao=9323578"
+    },
+
+    {
+      "numeroAno": "511/2021",
+      "objetoRequisicao": "Aquisição de ventiladores, para a Unidade Escolar EMEIEF Prof. Maria Apparecida de Luca Moore II.",
+      "hash": 9323579,
+      "oficial": false,
+      "urlCotacao": "https://serv42.limeira.sp.gov.br/requisicaoCompras/relatorioCotacaoPrevia/relatorioCotacaoPrevia.php?hash_cotacao=9323579"
+    },
+
+    {
+      "numeroAno": "514/2021",
+      "objetoRequisicao": "Aquisição de medicamentos para atendimento a Mandados Judiciais ativos e com previsão para inclusão de novos<br>atendimentos, levantados pela progressão da demanda, para um período de 12 meses. (Abertura de Ata de Registro de Preços).",
+      "hash": 9323588,
+      "oficial": true,
+      "urlCotacao": "https://serv42.limeira.sp.gov.br/requisicaoCompras/relatorioCotacaoOficial/relatorioCotacaoOficial.php?hash_cotacao=9323588",
+
+      "anexos": [
+        {
+          "nomeArquivo": "PlanilhaMedicamentosMJ2021-OFICIALPARTEII..xls",
+          "urlAnexo": "https://serv42.limeira.sp.gov.br/requisicaoCompras/download_anexo_hash/download_anexo_hash.php?hash_cotacao=9323588&var_filename=PlanilhaMedicamentosMJ2021-OFICIALPARTEII..xls"
+        }
+      ]
+    },
+
+    {
+      "numeroAno": "516/2021",
+      "objetoRequisicao": "Aquisição de Cadeiras",
+      "hash": 9323590,
+      "oficial": true,
+      "urlCotacao": "https://serv42.limeira.sp.gov.br/requisicaoCompras/relatorioCotacaoOficial/relatorioCotacaoOficial.php?hash_cotacao=9323590"
+    },
+
+    {
+      "numeroAno": "522/2021",
+      "objetoRequisicao": "Serviço de tratamento de todo o madeiramento do telhado, batentes e portas infestadas (tratamento de cupim de madeira seca) e Tratamento de cupim de solo, na Unidade Escolar CEIEF Professora Flora de Castro Rodrigues.",
+      "hash": 9323596,
+      "oficial": false,
+      "urlCotacao": "https://serv42.limeira.sp.gov.br/requisicaoCompras/relatorioCotacaoPrevia/relatorioCotacaoPrevia.php?hash_cotacao=9323596"
+    },
+
+    {
+      "numeroAno": "525/2021",
+      "objetoRequisicao": "Contratação de empresa especializada em Remoção de Forro de PVC, Remoção de Gesso, Remoção do Forro de PVC de locais onde os resíduos já foram removidos e Limpeza e Remoção de resíduos, na Unidade Escolar CEIEF Professora Flora de Castro Rodrigues.",
+      "hash": 9323605,
+      "oficial": false,
+      "urlCotacao": "https://serv42.limeira.sp.gov.br/requisicaoCompras/relatorioCotacaoPrevia/relatorioCotacaoPrevia.php?hash_cotacao=9323605"
+    },
+
+    {
+      "numeroAno": "528/2021",
+      "objetoRequisicao": "Contratação de empresa especializada para Substituir a Cobertura da EMEIEF Zé Carioca e Zeladoria.",
+      "hash": 9323608,
+      "oficial": true,
+      "urlCotacao": "https://serv42.limeira.sp.gov.br/requisicaoCompras/relatorioCotacaoOficial/relatorioCotacaoOficial.php?hash_cotacao=9323608",
+
+      "anexos": [
+        {
+          "nomeArquivo": "MemorialDescritivo.pdf",
+          "urlAnexo": "https://serv42.limeira.sp.gov.br/requisicaoCompras/download_anexo_hash/download_anexo_hash.php?hash_cotacao=9323608&var_filename=MemorialDescritivo.pdf"
+        }
+      ]
+    },
+
+    {
+      "numeroAno": "536/2021",
+      "objetoRequisicao": "Contratação de empresa especializada, em Instalação de malha de bloqueio para pombos, na cobertura da quadra esportiva, para Unidade Escolar EMEIEF Aracy Nogueira Guimarães",
+      "hash": 9323974,
+      "oficial": false,
+      "urlCotacao": "https://serv42.limeira.sp.gov.br/requisicaoCompras/relatorioCotacaoPrevia/relatorioCotacaoPrevia.php?hash_cotacao=9323974"
+    },
+
+    {
+      "numeroAno": "545/2021",
+      "objetoRequisicao": "Abertura de Licitação Ata de Registro de Preço, para aquisição de móveis para as unidades escolares.",
+      "hash": 9323989,
+      "oficial": true,
+      "urlCotacao": "https://serv42.limeira.sp.gov.br/requisicaoCompras/relatorioCotacaoOficial/relatorioCotacaoOficial.php?hash_cotacao=9323989",
+
+      "anexos": [
+        {
+          "nomeArquivo": "TermodeEspecificacao-BensPermanentes.docx",
+          "urlAnexo": "https://serv42.limeira.sp.gov.br/requisicaoCompras/download_anexo_hash/download_anexo_hash.php?hash_cotacao=9323989&var_filename=TermodeEspecificacao-BensPermanentes.docx"
+        }
+      ]
+    },
+
+    {
+      "numeroAno": "549/2021",
+      "objetoRequisicao": "Aquisição de materiais ergonômicos: Mouse Pad com apoio de punho em gel; e Apoio de punho em gel, para digitação em teclado.",
+      "hash": 9323993,
+      "oficial": true,
+      "urlCotacao": "https://serv42.limeira.sp.gov.br/requisicaoCompras/relatorioCotacaoOficial/relatorioCotacaoOficial.php?hash_cotacao=9323993"
+    },
+
+    {
+      "numeroAno": "551/2021",
+      "objetoRequisicao": "Aquisição de Vioncelo 4/4",
+      "hash": 9323995,
+      "oficial": true,
+      "urlCotacao": "https://serv42.limeira.sp.gov.br/requisicaoCompras/relatorioCotacaoOficial/relatorioCotacaoOficial.php?hash_cotacao=9323995"
+    },
+
+    {
+      "numeroAno": "559/2021",
+      "objetoRequisicao": "Aquisição de medicamento para continuidade do tratamento do(s) paciente(s), atendendo ao(s) respectivo(s) Mandado Judicial:<br>1005077-27.2016.8.26.0320 - ANTONIA PACAGNELLA CONEGO<br>0001033-74.2019.8.26.0320 - ILTON FERREIRA DE ALMEIDA<br>0015485-60.2017.8.26.0320 - OTILIA DE LIMA PORTES THIAGO<br>1004679-17.2015.8.26.0320 - PALMYRA GIORGETTI BILATTO<br>Caráter emergencial.<br>",
+      "hash": 9324009,
+      "oficial": true,
+      "urlCotacao": "https://serv42.limeira.sp.gov.br/requisicaoCompras/relatorioCotacaoOficial/relatorioCotacaoOficial.php?hash_cotacao=9324009"
+    },
+
+    {
+      "numeroAno": "560/2021",
+      "objetoRequisicao": "Aquisição de medicamento para continuidade do tratamento do(s) paciente(s), atendendo ao(s) respectivo(s) Mandado Judicial:<br>0006293-69.2018.8.26.0320 - GERALDA SEPULVIDA PEREIRA<br>0011266-04.2017.8.26.0320 - BELMIRO CHAVES SAMPAIO<br>0023408-40.2017.8.26.0320 - GEISA APARECIDA POLATO<br>1003167-91.2018.8.26.0320 - GIOVANA RODRIGUES PARAGUASSU<br>Caráter emergencial.<br>",
+      "hash": 9324010,
+      "oficial": true,
+      "urlCotacao": "https://serv42.limeira.sp.gov.br/requisicaoCompras/relatorioCotacaoOficial/relatorioCotacaoOficial.php?hash_cotacao=9324010"
+    },
+
+    {
+      "numeroAno": "562/2021",
+      "objetoRequisicao": "Adaptador USB Wireless e Roteador AC 1200Mbps de 4 Antenas.",
+      "hash": 9324012,
+      "oficial": true,
+      "urlCotacao": "https://serv42.limeira.sp.gov.br/requisicaoCompras/relatorioCotacaoOficial/relatorioCotacaoOficial.php?hash_cotacao=9324012",
+
+      "anexos": [
+        {
+          "nomeArquivo": "Especificacao-AdaptadorUSB3.0WirelessAC.pdf",
+          "urlAnexo": "https://serv42.limeira.sp.gov.br/requisicaoCompras/download_anexo_hash/download_anexo_hash.php?hash_cotacao=9324012&var_filename=Especificacao-AdaptadorUSB3.0WirelessAC.pdf"
+        },
+
+        {
+          "nomeArquivo": "Especificacao-RoteadorAC1200Mbpsde4Antenas.pdf",
+          "urlAnexo": "https://serv42.limeira.sp.gov.br/requisicaoCompras/download_anexo_hash/download_anexo_hash.php?hash_cotacao=9324012&var_filename=Especificacao-RoteadorAC1200Mbpsde4Antenas.pdf"
+        }
+      ]
+    },
+
+    {
+      "numeroAno": "563/2021",
+      "objetoRequisicao": "Abertura de Licitação - Ata de Registro de Preço, para aquisição de Sacos Plásticos de Lixo.",
+      "hash": 9324013,
+      "oficial": true,
+      "urlCotacao": "https://serv42.limeira.sp.gov.br/requisicaoCompras/relatorioCotacaoOficial/relatorioCotacaoOficial.php?hash_cotacao=9324013",
+
+      "anexos": [
+        {
+          "nomeArquivo": "TermodeEspecificacaoSacodeLixo.doc",
+          "urlAnexo": "https://serv42.limeira.sp.gov.br/requisicaoCompras/download_anexo_hash/download_anexo_hash.php?hash_cotacao=9324013&var_filename=TermodeEspecificacaoSacodeLixo.doc"
+        }
+      ]
+    },
+
+    {
+      "numeroAno": "564/2021",
+      "objetoRequisicao": "Aquisição de medicamento para continuidade do tratamento do(s) paciente(s), atendendo ao(s) respectivo(s) Mandado Judicial:<br>1000343-91.2020.8.26.0320 - GABRIEL RODRIGUES DA SILVA<br>1015514-30.2016.8.26.0320 - THAINÁ FERNANDES MACHADO<br>0003657-33.2018.8.26.0320 - DINA DRAGONE <br>Caráter emergencial.<br>",
+      "hash": 9324020,
+      "oficial": true,
+      "urlCotacao": "https://serv42.limeira.sp.gov.br/requisicaoCompras/relatorioCotacaoOficial/relatorioCotacaoOficial.php?hash_cotacao=9324020"
+    },
+
+    {
+      "numeroAno": "569/2021",
+      "objetoRequisicao": "Aquisição de medicamento para continuidade do tratamento do(s) paciente(s), atendendo ao(s) respectivo(s) Mandado Judicial:<br>1009341-53.2017.8.26.0320 - Neuza Hergert Pulz<br>320.01.2012.021952-2/000000-000 - SUELI APARECIDA DE ARAUJO CAVALCANTI<br>320.01.2012.016083-6/000000-000 - FRANCISCO BENJAMIM RISANTE<br>Caráter emergencial.<br>",
+      "hash": 9324025,
+      "oficial": true,
+      "urlCotacao": "https://serv42.limeira.sp.gov.br/requisicaoCompras/relatorioCotacaoOficial/relatorioCotacaoOficial.php?hash_cotacao=9324025"
+    },
+
+    {
+      "numeroAno": "570/2021",
+      "objetoRequisicao": "Aquisição de Brinquedos para Unidade escolar EMEIEF Raquel Aparecida Gonçalves Franceschi.",
+      "hash": 9324026,
+      "oficial": false,
+      "urlCotacao": "https://serv42.limeira.sp.gov.br/requisicaoCompras/relatorioCotacaoPrevia/relatorioCotacaoPrevia.php?hash_cotacao=9324026"
+    },
+
+    {
+      "numeroAno": "571/2021",
+      "objetoRequisicao": "Eventual Aquisição de Ração para alimentação dos Animais alojados no Zoológico, Minissítio, Setor de Apreensão e Canil, do Departamento de Proteção e Bem Estar Animal, da Secretaria de Meio Ambiente e Agricultura.",
+      "hash": 9324027,
+      "oficial": true,
+      "urlCotacao": "https://serv42.limeira.sp.gov.br/requisicaoCompras/relatorioCotacaoOficial/relatorioCotacaoOficial.php?hash_cotacao=9324027"
+    },
+
+    {
+      "numeroAno": "576/2021",
+      "objetoRequisicao": "Aquisição de Switch, Placa de Rede e Mouse, para as unidades escolares.",
+      "hash": 9323782,
+      "oficial": true,
+      "urlCotacao": "https://serv42.limeira.sp.gov.br/requisicaoCompras/relatorioCotacaoOficial/relatorioCotacaoOficial.php?hash_cotacao=9323782",
+
+      "anexos": [
+        {
+          "nomeArquivo": "TermodeEspecificacaoSwitchPlacaeMouse.docx",
+          "urlAnexo": "https://serv42.limeira.sp.gov.br/requisicaoCompras/download_anexo_hash/download_anexo_hash.php?hash_cotacao=9323782&var_filename=TermodeEspecificacaoSwitchPlacaeMouse.docx"
+        }
+      ]
+    },
+
+    {
+      "numeroAno": "582/2021",
+      "objetoRequisicao": "Aquisição de medicamento para continuidade do tratamento do(s) paciente(s), atendendo ao(s) respectivo(s) Mandado Judicial:<br>1013726-44.2017.8.26.0320 - APARECIDA TREVISOL DELLA COLETTA<br>1012070-86.2016.8.26.0320 - WALLY LUDERS DOS SANTOS<br>Caráter emergencial.<br>",
+      "hash": 9323788,
+      "oficial": true,
+      "urlCotacao": "https://serv42.limeira.sp.gov.br/requisicaoCompras/relatorioCotacaoOficial/relatorioCotacaoOficial.php?hash_cotacao=9323788"
+    },
+
+    {
+      "numeroAno": "583/2021",
+      "objetoRequisicao": "Aquisição de medicamento para continuidade do tratamento do(s) paciente(s), atendendo ao(s) respectivo(s) Mandado Judicial:<br>1006990-78.2015.8.26.0320 - ANA APARECIDA GUERREIRO<br>1004629-20.2017.8.26.0320 - FRANCISCA ROSSANA PAIAO DE JESUS<br>1014676-87.2016.8.26.0320 - MARINA APARECIDA CAVALARI ISEPE<br>Caráter emergencial.<br>",
+      "hash": 9323789,
+      "oficial": true,
+      "urlCotacao": "https://serv42.limeira.sp.gov.br/requisicaoCompras/relatorioCotacaoOficial/relatorioCotacaoOficial.php?hash_cotacao=9323789"
+    },
+
+    {
+      "numeroAno": "584/2021",
+      "objetoRequisicao": "Aquisição de medicamento para continuidade do tratamento do(s) paciente(s), atendendo ao(s) respectivo(s) Mandado Judicial:<br>1009767-02.2016.8.26.0320 - ELISABETE APARECIDA BRUM RIVABENE<br>1010267-97.2018.8.26.0320 - REGINA HELENA STAHL<br>Caráter emergencial.<br>",
+      "hash": 9323796,
+      "oficial": true,
+      "urlCotacao": "https://serv42.limeira.sp.gov.br/requisicaoCompras/relatorioCotacaoOficial/relatorioCotacaoOficial.php?hash_cotacao=9323796"
+    },
+
+    {
+      "numeroAno": "586/2021",
+      "objetoRequisicao": "Aquisição de cosmético se faz necessária para continuidade do tratamento do(a) paciente(s), atendendo ao(s) respectivo(s) Mandado Judicial:<br>1009767-02.2016.8.26.0320 - ELISABETE APARECIDA BRUM RIVABENE<br>Caráter emergencial.",
+      "hash": 9323798,
+      "oficial": true,
+      "urlCotacao": "https://serv42.limeira.sp.gov.br/requisicaoCompras/relatorioCotacaoOficial/relatorioCotacaoOficial.php?hash_cotacao=9323798"
+    },
+
+    {
+      "numeroAno": "587/2021",
+      "objetoRequisicao": "Aquisição de medicamento(s) para tratamento inicial do(s) paciente(s), atendendo ao(s) respectivo(s)<br>Mandado(s) Judicial(ais):<br>0000483-86.2021.4.03.6333 paciente: RAVI DE LUNA PEREZ.<br>Caráter emergencial.",
+      "hash": 9323799,
+      "oficial": true,
+      "urlCotacao": "https://serv42.limeira.sp.gov.br/requisicaoCompras/relatorioCotacaoOficial/relatorioCotacaoOficial.php?hash_cotacao=9323799"
+    },
+
+    {
+      "numeroAno": "591/2021",
+      "objetoRequisicao": "Contratação de empresa ou profissional devidamente habilitado para prestação de serviços com a realização de<br>sessões de fonoaudiologia através do método Prompt em atendimento a Mandado Judicial ativo. ITEM 1 FRACASSADO NO PREGÃO 13/21.",
+      "hash": 9323803,
+      "oficial": false,
+      "urlCotacao": "https://serv42.limeira.sp.gov.br/requisicaoCompras/relatorioCotacaoPrevia/relatorioCotacaoPrevia.php?hash_cotacao=9323803"
+    },
+
+    {
+      "numeroAno": "594/2021",
+      "objetoRequisicao": "Aquisição de filmes de mamografia para uso na Policlínica. Previsão de consumo: 12 meses. (Abertura de Ata de<br>Registro de Preços).",
+      "hash": 9323812,
+      "oficial": false,
+      "urlCotacao": "https://serv42.limeira.sp.gov.br/requisicaoCompras/relatorioCotacaoPrevia/relatorioCotacaoPrevia.php?hash_cotacao=9323812"
+    },
+
+    {
+      "numeroAno": "602/2021",
+      "objetoRequisicao": "Contratação de instituição hospitalar especializada em atendimento de paciente portador de doença mental grave e necessidades especiais pelo período de 12 meses.",
+      "hash": 9323820,
+      "oficial": false,
+      "urlCotacao": "https://serv42.limeira.sp.gov.br/requisicaoCompras/relatorioCotacaoPrevia/relatorioCotacaoPrevia.php?hash_cotacao=9323820"
+    },
+
+    {
+      "numeroAno": "603/2021",
+      "objetoRequisicao": "Contratação de Empresa Especializada para Locação de Veículos, sem motorista, sem combustível para atendimento a Secretaria de Segurança pública.<br>",
+      "hash": 9323821,
+      "oficial": false,
+      "urlCotacao": "https://serv42.limeira.sp.gov.br/requisicaoCompras/relatorioCotacaoPrevia/relatorioCotacaoPrevia.php?hash_cotacao=9323821"
+    },
+
+    {
+      "numeroAno": "605/2021",
+      "objetoRequisicao": "Aquisição de materiais elétricos para reparos nos vestiários dos atiradores do Tiro de Guerra 02-020. <br>",
+      "hash": 9323829,
+      "oficial": false,
+      "urlCotacao": "https://serv42.limeira.sp.gov.br/requisicaoCompras/relatorioCotacaoPrevia/relatorioCotacaoPrevia.php?hash_cotacao=9323829"
+    },
+
+    {
+      "numeroAno": "618/2021",
+      "objetoRequisicao": "Sondagem de solo a percussão com 3 pontos de sondagem, nas unidades escolares: EMEIEF Profª Cassiana M. S. Lenci. CEIEF Profº Deovaldo T. de Carvalho. CEIEF Profª Jamile Caram de S. Dias. EMEIEF Profª Benedicta de Toledo. EMEIEF Profª Clara Monzani Lang. EMEIEF Dr. José Carvalho Ferreira. EMEIEF Major José Levy Sobrinho, EMEIEF Padre Mauricio S. Ferreira.",
+      "hash": 9323848,
+      "oficial": false,
+      "urlCotacao": "https://serv42.limeira.sp.gov.br/requisicaoCompras/relatorioCotacaoPrevia/relatorioCotacaoPrevia.php?hash_cotacao=9323848",
+
+      "anexos": [
+        {
+          "nomeArquivo": "MemorialBenedicta.pdf",
+          "urlAnexo": "https://serv42.limeira.sp.gov.br/requisicaoCompras/download_anexo_hash/download_anexo_hash.php?hash_cotacao=9323848&var_filename=MemorialBenedicta.pdf"
+        },
+
+        {
+          "nomeArquivo": "MemorialCassiana.pdf",
+          "urlAnexo": "https://serv42.limeira.sp.gov.br/requisicaoCompras/download_anexo_hash/download_anexo_hash.php?hash_cotacao=9323848&var_filename=MemorialCassiana.pdf"
+        },
+
+        {
+          "nomeArquivo": "MemorialClaraMonzoni.pdf",
+          "urlAnexo": "https://serv42.limeira.sp.gov.br/requisicaoCompras/download_anexo_hash/download_anexo_hash.php?hash_cotacao=9323848&var_filename=MemorialClaraMonzoni.pdf"
+        },
+
+        {
+          "nomeArquivo": "MemorialDeovaldo.pdf",
+          "urlAnexo": "https://serv42.limeira.sp.gov.br/requisicaoCompras/download_anexo_hash/download_anexo_hash.php?hash_cotacao=9323848&var_filename=MemorialDeovaldo.pdf"
+        },
+
+        {
+          "nomeArquivo": "MemorialJamile.pdf",
+          "urlAnexo": "https://serv42.limeira.sp.gov.br/requisicaoCompras/download_anexo_hash/download_anexo_hash.php?hash_cotacao=9323848&var_filename=MemorialJamile.pdf"
+        },
+
+        {
+          "nomeArquivo": "MemorialJoseCarvalho.pdf",
+          "urlAnexo": "https://serv42.limeira.sp.gov.br/requisicaoCompras/download_anexo_hash/download_anexo_hash.php?hash_cotacao=9323848&var_filename=MemorialJoseCarvalho.pdf"
+        },
+
+        {
+          "nomeArquivo": "MemorialMajor.pdf",
+          "urlAnexo": "https://serv42.limeira.sp.gov.br/requisicaoCompras/download_anexo_hash/download_anexo_hash.php?hash_cotacao=9323848&var_filename=MemorialMajor.pdf"
+        },
+
+        {
+          "nomeArquivo": "MemorialPadreMauricio.pdf",
+          "urlAnexo": "https://serv42.limeira.sp.gov.br/requisicaoCompras/download_anexo_hash/download_anexo_hash.php?hash_cotacao=9323848&var_filename=MemorialPadreMauricio.pdf"
+        }
+      ]
+    },
+
+    {
+      "numeroAno": "623/2021",
+      "objetoRequisicao": "Portas, paredes de Drywall e desmanche das paredes existente para readequação e ampliação de duas salas para videoconferências.",
+      "hash": 9323853,
+      "oficial": false,
+      "urlCotacao": "https://serv42.limeira.sp.gov.br/requisicaoCompras/relatorioCotacaoPrevia/relatorioCotacaoPrevia.php?hash_cotacao=9323853"
+    },
+
+    {
+      "numeroAno": "643/2021",
+      "objetoRequisicao": "Contratação de empresa especializada para fornecimento de serviços gráficos, incluindo formulários padronizados, impressos coloridos e monocromáticos em geral par atender as necessidades da secretaria de saúde. (Abertura de Ata de Registro de Preços)",
+      "hash": 9329869,
+      "oficial": false,
+      "urlCotacao": "https://serv42.limeira.sp.gov.br/requisicaoCompras/relatorioCotacaoPrevia/relatorioCotacaoPrevia.php?hash_cotacao=9329869"
+    },
+
+    {
+      "numeroAno": "646/2021",
+      "objetoRequisicao": "Contratação de Empresa especializada para manutenção do telhado e escoamento das águas pluviais no CEIEF Profº Deovaldo Teixeira de Carvalho.",
+      "hash": 9329878,
+      "oficial": false,
+      "urlCotacao": "https://serv42.limeira.sp.gov.br/requisicaoCompras/relatorioCotacaoPrevia/relatorioCotacaoPrevia.php?hash_cotacao=9329878",
+
+      "anexos": [
+        {
+          "nomeArquivo": "MemorialDeovaldo.pdf",
+          "urlAnexo": "https://serv42.limeira.sp.gov.br/requisicaoCompras/download_anexo_hash/download_anexo_hash.php?hash_cotacao=9329878&var_filename=MemorialDeovaldo.pdf"
+        }
+      ]
+    }
+  ]
+}
