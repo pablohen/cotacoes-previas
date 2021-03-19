@@ -1,5 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import Head from 'next/head';
+import Loader from 'react-loader-spinner';
+
 import cotacoesService from '../services/cotacoesService';
 import Cotacao from '../components/Cotacao';
 import MainMenu from '../components/MainMenu';
@@ -11,6 +13,7 @@ const Home = () => {
   const [cotacoes, setCotacoes] = useState([]);
   const [searchTerm, setSearchTerm] = useState('');
   const [results, setResults] = useState(0);
+  const [loading, setLoading] = useState(true);
 
   const getResults = () => {
     const currentResults = document.querySelectorAll('.visible').length;
@@ -20,6 +23,7 @@ const Home = () => {
   const getCotacoes = async () => {
     const cotacoesData = await cotacoesService.getCotacoes();
     setCotacoes(cotacoesData);
+    setLoading(false);
   };
 
   const tableCaption = () => `${results} ${
@@ -43,6 +47,12 @@ const Home = () => {
       </Head>
 
       <MainMenu title={appName} />
+
+      {loading && (
+        <div className="flex justify-center items-center h-full">
+          <Loader type="Bars" color="#00BFFF" height={100} width={100} />
+        </div>
+      )}
 
       <div className="container mx-auto">
         <main className="m-4 space-y-4">
