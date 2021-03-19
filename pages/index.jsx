@@ -76,7 +76,7 @@ const Home = () => {
                   <th className="border p-2 bg-gray-200">
                     <span className="text-gray-500">Cotação</span>
                   </th>
-                  <th className="border p-2 bg-gray-200">
+                  <th className="border p-2 bg-gray-200 w-full">
                     <span className="text-gray-500">Descrição</span>
                   </th>
                   <th className="border p-2 bg-gray-200">

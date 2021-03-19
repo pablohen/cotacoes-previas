@@ -1,3 +1,4 @@
+/* eslint-disable react/no-danger */
 /* eslint-disable react/forbid-prop-types */
 import React, { useRef } from 'react';
 import PropTypes from 'prop-types';
@@ -38,7 +39,7 @@ const Cotacao = ({ cotacao, searchTerm }) => {
         </a>
       </td>
       <td className="border p-4">
-        <p>{cotacao.objetoRequisicao}</p>
+        <p dangerouslySetInnerHTML={{ __html: cotacao.objetoRequisicao }} />
         <div className="flex items-center flex-wrap">
           {cotacao.anexos?.map((anexo) => (
             <Anexo key={anexo.nomeArquivo} anexo={anexo} />
