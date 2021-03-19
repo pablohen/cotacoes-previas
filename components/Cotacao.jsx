@@ -30,7 +30,7 @@ const Cotacao = ({ cotacao, searchTerm }) => {
     >
       <td className="border p-4">
         <a href={cotacao.urlCotacao}>
-          <div className="flex flex-col justify-center items-center bg-blue-400 m-2 p-2 rounded-lg">
+          <div className="flex flex-col justify-center items-center bg-blue-400 hover:bg-blue-600 m-2 p-2 rounded-lg">
             <DownloadIcon className="text-white" />
             <span className="text-white font-semibold">
               {cotacao.numeroAno}

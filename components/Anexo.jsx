@@ -6,7 +6,7 @@ import AttachFileIcon from '@material-ui/icons/AttachFile';
 const Anexo = ({ anexo }) => (
   <a
     href={anexo.urlAnexo}
-    className="m-2 px-4 py-1 rounded-xl bg-gray-400 hover:bg-gray-600 text-white text-sm font-semibold"
+    className="m-2 px-4 py-1 rounded-full bg-gray-400 hover:bg-gray-600 text-white text-sm font-semibold"
   >
     <AttachFileIcon />
     {anexo.nomeArquivo}

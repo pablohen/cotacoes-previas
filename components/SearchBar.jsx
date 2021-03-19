@@ -3,12 +3,12 @@ import PropTypes from 'prop-types';
 import SearchIcon from '@material-ui/icons/Search';
 
 const SearchBar = ({ onChange }) => (
-  <div className="flex items-center w-full border rounded px-2">
+  <div className="flex items-center w-full border rounded-full px-2">
     <SearchIcon className="text-gray-600" />
     <input
       type="text"
       placeholder="Pesquisar..."
-      className="w-full p-2 outline-none text-gray-600 font-semibold"
+      className="w-full p-2 outline-none text-gray-600 font-semibold bg-transparent"
       onChange={onChange}
     />
   </div>
